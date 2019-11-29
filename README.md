@@ -1,2 +1,2 @@
-# PRO_C27_NM
-creating chain of circles
+# p5.play-boilerplate
+Boiler plate for p5.play
